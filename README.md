@@ -1,10 +1,9 @@
 # YouTube-scraper
 Scrapes YouTube data
 
+<i>With server:</i>
 <img src="example.PNG" />
-<i>With server ^</i>
-
 <br>
-
+<i>Without server:</i>
 <img src="example2.PNG" />
-<i>Without server ^</i>
+
