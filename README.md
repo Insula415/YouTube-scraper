@@ -6,5 +6,6 @@ Scrapes YouTube data
 <img src="example.PNG" />
 <br>
 <i>Without server:</i>
+
 <img src="example2.PNG" />
 
