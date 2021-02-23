@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube scraper</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="scrape.js"></script>
+</head>
+<body>    
+    <input id="inp" type="text" placeholder="Enter a YouTuber"/>
+    <br>
+    <div class="container">
+        <button onclick="main()">ENTER</button>
+        <button onclick="history.go(0);">REFRESH</button>
+    </div>
+
+    <p id="channel"></p>
+    <p id="stats"></p>
+</body>
+
+</html>
