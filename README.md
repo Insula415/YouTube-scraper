@@ -1,5 +1,5 @@
 # YouTube-scraper
-Scrapes YouTube data
+Scrapes YouTube data, as seen in the images below.
 
 <i>With server:</i>
 
